@@ -7954,6 +7954,7 @@ namespace MaterialDesignThemes.Wpf
         Injection=Needle,
         Shot=Needle,
         Syringe=Needle,
+        NeedleOff,
         Netflix,
         Network,
         NetworkOff,
