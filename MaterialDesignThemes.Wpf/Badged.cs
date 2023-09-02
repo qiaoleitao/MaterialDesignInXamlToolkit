@@ -17,6 +17,7 @@ namespace MaterialDesignThemes.Wpf
         Left
     }
 
+
     [TemplatePart(Name = BadgeContainerPartName, Type = typeof(UIElement))]
     public class Badged : ContentControl
     {
